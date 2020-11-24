@@ -1,6 +1,6 @@
-1.Overview of CRSCNV
+1.Overview of RKDOSCNV
 RKDOSCNV: A local kernel density-based approach to the detection of copy number variations by using next-generation sequencing data.
-In order to verify the validity of CRSCNV,we use it to detect simulation data and real data compared with several existing methods,which 
+In order to verify the validity of RKDOSCNV,we use it to detect simulation data and real data compared with several existing methods,which 
 proves to be a very effective and reliable tool.
 2.Usage
 2.1 Operating environment
